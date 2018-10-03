@@ -1,4 +1,4 @@
-{"room": [
+ [
     {
       "room_id": "101res",
       "room_no": 101,
@@ -95,4 +95,4 @@
       "status": "VACANT",
       "clean_status": "CLEAN"
     }
-  ]}
+  ]
