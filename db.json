@@ -1,4 +1,4 @@
- [
+[
     {
       "room_id": "101res",
       "room_no": 101,
@@ -14,85 +14,5 @@
       "charges": "800",
       "status": "VACANT",
       
-    },
-    {
-      "room_id": "103AC",
-      "room_no": 103,
-      "room_type": "Single",
-      "charges": "800",
-      "status": "VACANT",
-    
-    },
-    {
-      "room_id": "104NONAC",
-      "room_no": 104,
-      "room_type": "Single",
-      "charges": "500",
-      "status": "VACANT",
- 
-    },
-    {
-      "room_id": "105NONAC",
-      "room_no": 105,
-      "room_type": "Single",
-      "charges": "500",
-      "status": "VACANT",
-     
-    },
-    {
-      "room_id": "106AC",
-      "room_no": 106,
-      "room_type": "Double",
-      "charges": "1500",
-      "status": "VACANT",
-     
-    },
-    {
-      "room_id": "202NONAC",
-      "room_no": 202,
-      "room_type": "Single",
-      "charges": "500",
-      "status": "VACANT",
-   
-    },
-    {
-      "room_id": "201AC",
-      "room_no": 201,
-      "room_type": "Double",
-      "charges": "1500",
-      "status": "VACANT",
-     
-    },
-    {
-      "room_id": "203AC",
-      "room_no": 203,
-      "room_type": "Single",
-      "charges": "800",
-      "status": "VACANT",
-     
-    },
-    {
-      "room_id": "204AC",
-      "room_no": 204,
-      "room_type": "Single",
-      "charges": "1500",
-      "status": "VACANT",
-     
-    },
-    {
-      "room_id": "300AC",
-      "room_no": 300,
-      "room_type": "Hall",
-      "charges": "100500",
-      "status": "VACANT",
-      
-    },
-    {
-      "room_id": "400AC",
-      "room_no": 400,
-      "room_type": "Conference",
-      "charges": "55500",
-      "status": "VACANT",
-    
     }
-]
+ ]
